@@ -1,0 +1,2 @@
+# miniature-fiesta
+Class activity
